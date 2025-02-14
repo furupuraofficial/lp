@@ -39,16 +39,16 @@ body {
     width: 10vh;    
     height: 10vh;
     color:black;
-    font-size:2vw;
+    font-size:1vw;
     font-weight: bold;
     line-height: 0; /* 行間を詰める */
     white-space: pre-line; /* 改行を適用 */
 }
 .overlay-sp{
-    font-size:3vw;
+    font-size:1.2vw;
 }
 .banner p{
-    margin:1.2vw 0px;
+    margin:0.7em 0px;
 }
 .text-overlay {
     position: absolute;
@@ -59,21 +59,21 @@ body {
     background: rgba(0, 0, 0, 0.7);
     color: white;
     padding: 10px 15px;
-    font-size: 4.5vw;
+    font-size: 2vw;
     font-weight:bold;
 }
 .text-overlay1 {
     position:absolute;
     background:none;
     color:white;
-    font-size: 2.8vw;
+    font-size: 1.2vw;
     font-weight: bold;
     top:48vh;
     right:0;
     line-height: 0.9; /* 行間を詰める */
 }
 .overlay-sp1{
-    font-size: 8vw;
+    font-size: 80px;
     font-weight:medium;
 }
 .cta-button{
