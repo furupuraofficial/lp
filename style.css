@@ -15,7 +15,7 @@ body {
 .banner {
     position: relative;
     width: 100%;
-    height:75vh;
+    height:110vh;
     background-image:url('./top.png') ;
     background-position:center;
     background-size:cover;
@@ -781,7 +781,6 @@ a:hover{
 .stepnumber{
     color:white;
     font-weight:bold;
-    margin-left:20px;
     font-size:20px;
 }
 .stepnumber p{
@@ -878,10 +877,10 @@ a:hover{
     font-size:13px;
 }
 .plancomment-p1{
-    margin-left:5px;
+    margin-left:2vw;
 }
 .plancomment-p2{
-    margin-left:125px;
+    margin-left:31vw;
 }
 .plan-p1{
     color:white;
@@ -1048,7 +1047,6 @@ a:hover{
 }
 .ownedmedia{
     display:flex;
-    margin-left:15px;
     align-items: center;
     justify-content: center;
     gap:10px;
