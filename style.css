@@ -36,16 +36,16 @@ body {
     left: 0px;
     background: #DCC901;
     border-radius: 50%;
-    width: 10vh;    
-    height: 10vh;
+    width: 115px;    
+    height: 115px;
     color:black;
-    font-size:1vw;
+    font-size:20px;
     font-weight: bold;
     line-height: 0; /* 行間を詰める */
     white-space: pre-line; /* 改行を適用 */
 }
 .overlay-sp{
-    font-size:1.2vw;
+    font-size:24px;
 }
 .banner p{
     margin:0.7em 0px;
@@ -59,16 +59,16 @@ body {
     background: rgba(0, 0, 0, 0.7);
     color: white;
     padding: 10px 15px;
-    font-size: 2vw;
+    font-size: 35px;
     font-weight:bold;
 }
 .text-overlay1 {
     position:absolute;
     background:none;
     color:white;
-    font-size: 1.2vw;
+    font-size: 24px;
     font-weight: bold;
-    top:48vh;
+    top:550px;
     right:0;
     line-height: 0.9; /* 行間を詰める */
 }
