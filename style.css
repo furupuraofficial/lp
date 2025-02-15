@@ -599,8 +599,8 @@ a:hover{
 }
 .merit-title{
     background:white;
-    padding:10px 0;
-    height:90px;
+    padding:5px;
+    height:100px;
     width:100%;
     text-align:center;
 }
@@ -610,7 +610,7 @@ a:hover{
     font-size:36px;
 }
 .merit-title-p{
-    font-size:17px;
+    font-size:20px;
     line-height:1.2;
 }
 .grids {
