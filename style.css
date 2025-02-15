@@ -610,7 +610,6 @@ a:hover{
     font-size:36px;
 }
 .merit-title-p{
-    position:absolute;
     font-size:17px;
     line-height:1.2;
 }
@@ -815,7 +814,7 @@ a:hover{
     border-bottom-right-radius: 0px; /* 右下だけ丸く */
 }
 .steps5-p{
-    height:190px;
+    height:200px;
     display:flex;
     margin-bottom:0;
     flex-direction: column;
