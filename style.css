@@ -579,7 +579,7 @@ a:hover{
     position:relative;
     top:400px;
     width: 100%;
-    height:500px;
+    height:800px;
     padding:20px 0px;
     background-image:url('./Cover.png') ;
     background-position:center;
@@ -610,20 +610,20 @@ a:hover{
 }
 .merit-title-p{
     position:absolute;
-    margin:40px 40px;
-    font-size:20px;
+    margin:9.3vw 9.3vw;
+    font-size:4.65vw;
     line-height:1.2;
 }
 .grids {
     position:relative;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 20px;
-    margin:20px;
-    font-size:10px;
+    gap: 4.65vw;
+    margin:4.65vw;
+    font-size:23.3vw;
 }
 .merit h4{
-    font-size:18px;
+    font-size:4.2vw;
 }
 .grid {
     display: inline-block;
@@ -875,7 +875,7 @@ a:hover{
     font-weight:bold;
     display:flex;
     margin-bottom:0;
-    font-size:13px;
+    font-size:3.02vw;
 }
 .plancomment-p1{
     margin-left:2vw;
