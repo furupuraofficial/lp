@@ -598,7 +598,7 @@ a:hover{
     margin-top:0;
 }
 .merit-title{
-    background-image:url(/Cover2.png);
+    background-image:url('./Cover2.png');
     background-position:center;
     background-position:cover;
     height:140px;
