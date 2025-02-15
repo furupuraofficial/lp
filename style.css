@@ -611,7 +611,7 @@ a:hover{
 }
 .merit-title-p{
     position:absolute;
-    margin:8vw 9.5vw;
+    margin:8% 9.5%;
     font-size:17px;
     line-height:1.2;
 }
@@ -755,9 +755,9 @@ a:hover{
 .step-p1{
     position:relative;
     background-color: #B3A400;
-    width:37.3vw;
+    width:37.3%;
     height:30px;
-    margin-left:17.8vw;
+    margin-left:17.8%;
     margin-bottom:0;
     padding:10px 0;
     border-top-left-radius: 15px;  /* 左上だけ丸く */
@@ -767,7 +767,7 @@ a:hover{
 }
 .step-p2{
     background-color: #BD3900;
-    width:37.3vw;
+    width:37.3%;
     height:30px;
     margin-bottom:0;
     padding:10px 0;
@@ -784,12 +784,12 @@ a:hover{
 .stepnumber{
     color:white;
     font-weight:bold;
-    margin-left:6vw;
+    margin-left:6%;
     font-size:20px;
 }
 .stepnumber p{
     height:150px;
-    width:11.6vw;
+    width:11.6%;
     display:flex;
     flex-direction: column;
     align-items: center;
@@ -803,7 +803,7 @@ a:hover{
 }
 .steps3 p{
     height:200px;
-    width:11.6vw;
+    width:11.6%;
     display:flex;
     flex-direction: column;
     align-items: center;
@@ -817,7 +817,7 @@ a:hover{
 }
 .steps5 p{
     height:170px;
-    width:11.6vw;
+    width:11.6%;
     display:flex;
     flex-direction: column;
     align-items: center;
@@ -831,7 +831,7 @@ a:hover{
 }
 .step {
     position:relative;
-    width: 37vw;
+    width: 37%;
     background-color: white;
     color:black;
     border:1px solid rgba(0, 0, 0, 0.6);
@@ -881,10 +881,10 @@ a:hover{
     font-size:11px;
 }
 .plancomment-p1{
-    margin-left:2vw;
+    margin-left:2%;
 }
 .plancomment-p2{
-    margin-left:33vw;
+    margin-left:33%;
 }
 .plan-p1{
     color:white;
@@ -1051,12 +1051,12 @@ a:hover{
 }
 .ownedmedia{
     display:flex;
-    margin-left:2vw;
+    margin-left:2%;
     align-items: center;
     justify-content: center;
-    gap:2vw;
+    gap:2%;
     height:130px;
-    width: 90vw;
+    width: 90%;
     background: transparent;
     border:2px solid black; 
     text-align: left;
