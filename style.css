@@ -788,7 +788,8 @@ a:hover{
     margin-left:6%;
     font-size:20px;
 }
-.stepnumber p{
+.stepnumber-p{
+    margin-top:0;
     height:150px;
     display:flex;
     flex-direction: column;
@@ -801,8 +802,8 @@ a:hover{
     border-bottom-left-radius: 15px;  /* 左下は直角 */
     border-bottom-right-radius: 0px; /* 右下だけ丸く */
 }
-.steps3 p{
-    height:200px;
+.steps3-p{
+    height:210px;
     display:flex;
     flex-direction: column;
     align-items: center;
@@ -814,9 +815,10 @@ a:hover{
     border-bottom-left-radius: 15px;  /* 左下は直角 */
     border-bottom-right-radius: 0px; /* 右下だけ丸く */
 }
-.steps5 p{
-    height:170px;
+.steps5-p{
+    height:190px;
     display:flex;
+    margin-bottom:0;
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -831,6 +833,7 @@ a:hover{
     position:relative;
     width: 37%;
     background-color: white;
+    padding-bottom:0;
     color:black;
     border:1px solid rgba(0, 0, 0, 0.6);
 }
@@ -847,7 +850,7 @@ a:hover{
     height:90px;
 }
 .step4{
-    margin-top:34px;
+    margin-top:30px;
     margin-bottom:10px;
 }
 
