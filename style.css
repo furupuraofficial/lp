@@ -620,7 +620,7 @@ a:hover{
     grid-template-columns: repeat(2, 1fr);
     gap: 4.65vw;
     margin:4.65vw;
-    font-size:23.3vw;
+    font-size:2.3vw;
 }
 .merit h4{
     font-size:4.2vw;
@@ -812,7 +812,7 @@ a:hover{
     border-bottom-left-radius: 15px;  /* 左下は直角 */
     border-bottom-right-radius: 0px; /* 右下だけ丸く */
 }
-.steps5 {
+.steps5 p{
     height:170px;
     width:11.6vw;
     display:flex;
