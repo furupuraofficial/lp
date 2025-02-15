@@ -580,7 +580,7 @@ a:hover{
     position:relative;
     top:400px;
     width: 100%;
-    height:770px;
+    height:730px;
     padding:20px 0px;
     background-image:url('./Cover.png') ;
     background-position:center;
@@ -598,11 +598,11 @@ a:hover{
     margin-top:0;
 }
 .merit-title{
-    background-image:url('./Cover2.png');
-    background-position:center;
-    background-position:cover;
-    height:140px;
-    width:440px;
+    background:white;
+    padding:10px 0;
+    height:90px;
+    width:100%;
+    text-align:center;
 }
 .merit-title-sp {
     color: #BD3900;
@@ -611,7 +611,6 @@ a:hover{
 }
 .merit-title-p{
     position:absolute;
-    margin:8% 9.5%;
     font-size:17px;
     line-height:1.2;
 }
